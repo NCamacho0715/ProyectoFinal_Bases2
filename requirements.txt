@@ -1,2 +1,7 @@
 flask
+flask-sqlalchemy
+pymongo
+datetime
+bson
 gunicorn
+mysql-connector-python
